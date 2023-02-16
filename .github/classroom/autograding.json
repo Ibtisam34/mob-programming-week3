@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Rspec",
-      "setup": "sudo gem install rspec",
-      "run": "rspec",
+      "name": "Tests",
+      "setup": "npm install",
+      "run": "npm test",
       "input": "",
       "output": "",
       "comparison": "included",
